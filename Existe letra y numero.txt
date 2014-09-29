@@ -21,7 +21,8 @@ public static Boolean letra(string let, string palabra)
             if (palabra1.Contains(num))
             {
                 Console.WriteLine("Si existe numero");
-                return true;
+                Console.WriteLine("__________________________");
+	return true;
             }
             else
             {
